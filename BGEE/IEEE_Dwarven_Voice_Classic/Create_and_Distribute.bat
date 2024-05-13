@@ -9,16 +9,18 @@ setlocal DISABLEDELAYEDEXPANSION
 REM ------------------------
 REM INIT Soundset File Names
 REM ------------------------
-Set soundsetName[0]=!_DEMO
+Set soundsetName[0]=!_CDWARF
 REM --------------
 REM INIT Languages
 REM --------------
 REM (en_US = English, de_DE = German)
 Set languages[0]=en_US
+Set languages[1]=de_DE
 REM --------------------------
 REM INIT Soundset Custom Names
 REM --------------------------
-Set en_US[0]=!_Demo(Complete):Female Robot
+Set en_US[0]=!_IEEE Dwarf:Classic
+Set de_DE[0]=!_IEEE Zwerg:Klassisch
 REM -----------------
 REM INIT Folder Paths
 REM -----------------
@@ -218,6 +220,7 @@ Set voxSelectNames=!_VoxSelectNames
 Set sounds=!_Sounds
 Set positions=!_Positions
 
+
 REM ----------
 REM OGG to WAV
 REM ----------
@@ -225,12 +228,13 @@ for /F "tokens=2 delims==" %%l in ('Set languages[') do (
 	REM --------------------------------------------
 	REM Changes path to rename sound files extension
 	REM --------------------------------------------
-	cd "%VOX_FOLDER%\%%l"
+	cd %VOX_FOLDER%\%%l
 	REM Reads all WAV files in folder and renames them accordingly.
 	For %%c in (*.ogg) Do ( 
 		REN "%%c" "%%~nc.wav")
 	)
 )
+
 
 REM ---------------------
 REM Main Loop (Languages)
@@ -257,7 +261,7 @@ for /F "tokens=2 delims==" %%l in ('Set languages[') do (
 	REM Changes path to read sound files
 	REM --------------------------------
 	REM https://ss64.com/nt/dir.html; bare(/b) file sorted by name(/o:n)
-	cd "%VOX_FOLDER%\%%l"
+	cd %VOX_FOLDER%\%%l
 	set countedFiles=0
 	Set index=0
 	for /f "tokens=*" %%s in ('dir /b /o:n "*.wav"') do (
@@ -272,7 +276,7 @@ for /F "tokens=2 delims==" %%l in ('Set languages[') do (
 	REM -----------------------------------------------------------
 	REM Changes path to create init-file to fill it with WeiDU code
 	REM -----------------------------------------------------------
-	cd "%MOD_FOLDER%\%%l"
+	cd %MOD_FOLDER%\%%l
 	Copy NUL "InitVoxArrays.tpa"
 	REM --------------------------
 	REM INITIALIZE DYN ARRAY TEXTS
@@ -439,7 +443,7 @@ for /F "tokens=2 delims==" %%l in ('Set languages[') do (
 	REM -----------------------------
 	REM Redistributes all sound files
 	REM -----------------------------
-	cd "%VOX_FOLDER%\%%l"
+	cd %VOX_FOLDER%\%%l
 	REM https://ss64.com/nt/move.html; https://ss64.com/nt/if.html
 	REM https://stackoverflow.com/questions/26391925/in-a-batch-file-how-do-you-verify-part-of-a-filename-matches-a-given-string
 	for /F "tokens=2 delims==" %%w in ('Set soundsetFiles[') do ( 
