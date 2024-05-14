@@ -19,9 +19,9 @@ BEGIN
 	~ca~
 	~iwd_in_bg2~
 	//~bgee~
-	//~bg2ee~
-	//~eet~
-	//~iwdee~
+	~bg2ee~
+	~eet~
+	~iwdee~
 	~pstee~ 
 END
 

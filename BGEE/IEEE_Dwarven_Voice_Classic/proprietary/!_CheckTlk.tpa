@@ -51,7 +51,7 @@ BEGIN
 	OUTER_SET startStrref = 103580 // Baldur's Gate 2 Enhanced Edition
 END ELSE ACTION_IF (GAME_IS ~iwdee~) THEN 
 BEGIN
-	OUTER_SET startStrref = 41280 // Icewind Dale 2 Enhanced Edition
+	OUTER_SET startStrref = 41280 // Icewind Dale Enhanced Edition
 END ELSE
 BEGIN
 	OUTER_SET startStrref = 0

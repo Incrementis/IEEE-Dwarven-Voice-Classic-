@@ -1,0 +1,156 @@
+// ---INITIALIZE DYN ARRAY TEXTS
+OUTER_SPRINT ~Texts0~ ~Mit Ärger komme ich klar!~ //"!_CDWA0.wav" Ausgewählt 4
+OUTER_SPRINT ~Texts1~ ~Kann denn ein Zwerg keinen Augenblick Ruhe haben? Na gut, spuck's endlich aus, was willst du?~ //"!_CDWA0_.wav" Aktionsbestätigung 4 für SoD/BGEE/IWDEE ansonsten BGEE2 Aktionsbestätigung selten 1
+OUTER_SPRINT ~Texts2~ ~Na hör mal, wenn dir der Schnabel mal wieder überläuft, nimm dir lieber 'ne Spitzhacke und hau etwas Fels klein. Wirkt wahre wunder. Das gilt auch für Zwerge.~ //"!_CDWA1_.wav" Aktionsbestätigung 5 für SoD/BGEE/IWDEE ansonsten BGEE2 Aktionsbestätigung selten 2
+OUTER_SPRINT ~Texts3~ ~Tief unter der Erde, in den Bergen, da gibt's eine Pracht, die findet ihr nirgends sonst. Gold, wie Sonnenlicht gefangen in Stein. Edelsteine, die funkeln wie eingefangener Regenbogen. Fast lässt es einen Zwerg all seine Sorgen vergessen ... fast.~ //"!_CDWA2_.wav" Aktionsbestätigung 6 für SoD/BGEE/IWDEE ansonsten BGEE2 Aktionsbestätigung selten 3
+OUTER_SPRINT ~Texts4~ ~Hätt ich nicht gedacht, aber die zusammengewürfelte Truppe is ja gar nich so übel. Erinnert ein bisschen an'n Klan, streiten und zanken sich, aber halten am Ende immer zusammen. Also nervt mich jetzt nich mehr, sonst änder ich noch meine Meinung.~ //"!_CDWA3_.wav" Aktionsbestätigung 7 für SoD/BGEE/IWDEE ansonsten BGEE2 Aktionsbestätigung selten 4
+OUTER_SPRINT ~Texts5~ ~Rache oder Ruhm, heute kämpfen wir!~  //"!_CDWA8.wav" Schlachtruf 2
+OUTER_SPRINT ~Texts6~ ~Zermalmt sie zu Staub!~  //"!_CDWA9.wav" Schlachtruf 3
+OUTER_SPRINT ~Texts7~ ~Euer Untergang naht!~  //"!_CDWAa.wav" Schlachtruf 1
+OUTER_SPRINT ~Texts8~ ~Hört, hört! Gold und Ruhm warten auf uns!~  //"!_CDWAb.wav" Anführer werden
+OUTER_SPRINT ~Texts9~ ~Der olle Stein hier is' zu schwer fürn nächsten Marsch. Zeit für'n Päuschen!~  //"!_CDWAc.wav" Müde
+OUTER_SPRINT ~Texts10~ ~Diese Untätigkeit ist tiefer als jeder Schacht, den ich je gegraben habe. Meine Geduld schwindet!~  //"!_CDWAd.wav" Gelangweilt
+OUTER_SPRINT ~Texts11~ ~Uff, Dieser Berg ist aus härterem Gestein!~  //"!_CDWAe.wav" Schwer verwundet
+OUTER_SPRINT ~Texts12~ ~Endlich! Höchste Zeit! Lasst uns an die Arbeit gehen!~  //"!_CDWAf.wav" Ausgewählt 1
+OUTER_SPRINT ~Texts13~ ~Hrm.~  //"!_CDWAg.wav" Ausgewählt 2
+OUTER_SPRINT ~Texts14~ ~Ach, kaum mehr Kampfgeist als ein Sack voller Steine!~  //"!_CDWAg_.wav" Schlachtruf 4
+OUTER_SPRINT ~Texts15~ ~Was soll ich tun?~  //"!_CDWAh.wav" Ausgewählt 3
+OUTER_SPRINT ~Texts16~ ~Lasst den Boden rot färben!~  //"!_CDWAh_.wav" Schlachtruf 5
+OUTER_SPRINT ~Texts17~ ~Gut, gut.~  //"!_CDWAi.wav" Aktionsbestätigung 1
+OUTER_SPRINT ~Texts18~ ~Bei meinem Bart!~  //"!_CDWAj.wav" Aktionsbestätigung 2
+OUTER_SPRINT ~Texts19~ ~Du kannst auf mich zählen.~  //"!_CDWAk.wav" Aktionsbestätigung 3
+OUTER_SPRINT ~Texts20~ ~Buddeln wir oder kloppen wir?~  //"!_CDWAk_.wav" Ausgewählt 5
+OUTER_SPRINT ~Texts21~ ~Das ist alles? Versuchs nochmal!~  //"!_CDWAl.wav" Getroffen werden
+OUTER_SPRINT ~Texts22~ ~Wie lautet der Plan?~  //"!_CDWAl_.wav" Ausgewählt 6
+OUTER_SPRINT ~Texts23~ ~...Ich... ich sterbe. Aber der Geist eines Zwerges...bricht niemals...~  //"!_CDWAm.wav" Sterben
+OUTER_SPRINT ~Texts24~ ~Zu still ist es hier Wald! Ich vermisse das fröhliche Klirren von Zwergenpickeln auf Stein.~  //"!_CDWAn.wav" Im Wald
+OUTER_SPRINT ~Texts25~ ~Sicher, die Stadt protzt mit schickem Mauerwerk, aber viel zu viel Gequatsche hier! Man kann ja nich mal seine eigenen Gedanken hören.~ //"!_CDWAo.wav" In der Stadt
+OUTER_SPRINT ~Texts26~ ~Fester Stein, gut. Doch die Dunkelheit birgt Gefahren. Seid wachsam!~  //"!_CDWAp.wav" Im Kerker
+OUTER_SPRINT ~Texts27~ ~Die Sonne brennt ganz schön, was? Aber die klare Sicht ist unschlagbar. Könnte mir glatt ein feines Nickerchen darunter gönnen.~ //"!_CDWAq.wav" Tagsüber
+OUTER_SPRINT ~Texts28~ ~So finster wie der Bauch einer kalten Schmiede, diese Nacht. Und die Sterne, wie verstreute Diamanten. Kaum zu glauben, dass die Oberflächenbewohner so etwas Schönes über sich haben.~ //"!_CDWAr.wav" Nachts
+OUTER_SPRINT ~Texts29~ ~Verstanden.~  //"!_CDWAs.wav" BGEE[IWDEE] Aktionsbestätigung 4 oder Aktionsbestätigung 4 für BGEE2
+OUTER_SPRINT ~Texts30~ ~So schnell wie ein rollender Stein!~  //"!_CDWAt.wav" BGEE[IWDEE] Aktionsbestätigung 5 oder Aktionsbestätigung 5 für BGEE2
+OUTER_SPRINT ~Texts31~ ~Mein Hammer ist bereit!~  //"!_CDWAu.wav" BGEE[IWDEE] Aktionsbestätigung 6 oder Aktionsbestätigung 6 für BGEE2
+OUTER_SPRINT ~Texts32~ ~Ein treuer Zwerg folgt dem Befehl!~  //"!_CDWAv.wav" BGEE[IWDEE] Aktionsbestätigung 7 oder Aktionsbestätigung 7 für BGEE2
+OUTER_SPRINT ~Texts33~ ~Mögen die Götter dir Frieden gewähren, tapferer Kamerad. Du hast gut gekämpft.~ //"!_CDWAw.wav" Reaktion auf den Tod eines Gruppenmitglieds
+LAM ~!_Texts~
+// ---INITIALIZE DYN ARRAY NAMES
+OUTER_SPRINT ~VoxNames0~ ~!_CDWA~
+LAM ~!_VoxNames~
+// ---INITIALIZE DYN ARRAY SELECTABLE NAMES
+OUTER_SPRINT ~VoxSelectNames0~ ~!_IEEE Zwerg:Klassisch~
+LAM ~!_VoxSelectNames~	
+// ---INITIALIZE DYN ARRAY SOUNDS
+OUTER_SPRINT ~Sounds0~ ~!_CDWA0~
+OUTER_SPRINT ~Sounds1~ ~!_CDWA0_~
+OUTER_SPRINT ~Sounds2~ ~!_CDWA1_~
+OUTER_SPRINT ~Sounds3~ ~!_CDWA2_~
+OUTER_SPRINT ~Sounds4~ ~!_CDWA3_~
+OUTER_SPRINT ~Sounds5~ ~!_CDWA8~
+OUTER_SPRINT ~Sounds6~ ~!_CDWA9~
+OUTER_SPRINT ~Sounds7~ ~!_CDWAa~
+OUTER_SPRINT ~Sounds8~ ~!_CDWAb~
+OUTER_SPRINT ~Sounds9~ ~!_CDWAc~
+OUTER_SPRINT ~Sounds10~ ~!_CDWAd~
+OUTER_SPRINT ~Sounds11~ ~!_CDWAe~
+OUTER_SPRINT ~Sounds12~ ~!_CDWAf~
+OUTER_SPRINT ~Sounds13~ ~!_CDWAg~
+OUTER_SPRINT ~Sounds14~ ~!_CDWAg_~
+OUTER_SPRINT ~Sounds15~ ~!_CDWAh~
+OUTER_SPRINT ~Sounds16~ ~!_CDWAh_~
+OUTER_SPRINT ~Sounds17~ ~!_CDWAi~
+OUTER_SPRINT ~Sounds18~ ~!_CDWAj~
+OUTER_SPRINT ~Sounds19~ ~!_CDWAk~
+OUTER_SPRINT ~Sounds20~ ~!_CDWAk_~
+OUTER_SPRINT ~Sounds21~ ~!_CDWAl~
+OUTER_SPRINT ~Sounds22~ ~!_CDWAl_~
+OUTER_SPRINT ~Sounds23~ ~!_CDWAm~
+OUTER_SPRINT ~Sounds24~ ~!_CDWAn~
+OUTER_SPRINT ~Sounds25~ ~!_CDWAo~
+OUTER_SPRINT ~Sounds26~ ~!_CDWAp~
+OUTER_SPRINT ~Sounds27~ ~!_CDWAq~
+OUTER_SPRINT ~Sounds28~ ~!_CDWAr~
+OUTER_SPRINT ~Sounds29~ ~!_CDWAs~
+OUTER_SPRINT ~Sounds30~ ~!_CDWAt~
+OUTER_SPRINT ~Sounds31~ ~!_CDWAu~
+OUTER_SPRINT ~Sounds32~ ~!_CDWAv~
+OUTER_SPRINT ~Sounds33~ ~!_CDWAw~
+LAM ~!_Sounds~
+// ---INITIALIZE DYN ARRAY POSITIONS
+ACTION_IF (GAME_IS ~bgee~) OR  (FILE_EXISTS ~sod-dlc.zip~) OR (FILE_EXISTS ~dlc/sod-dlc.zip~) OR (GAME_IS ~iwdee~) THEN 
+BEGIN
+OUTER_SET ~Positions0~ = 29
+OUTER_SET ~Positions1~ = 35
+OUTER_SET ~Positions2~ = 36
+OUTER_SET ~Positions3~ = 37
+OUTER_SET ~Positions4~ = 38
+OUTER_SET ~Positions5~ = 10
+OUTER_SET ~Positions6~ = 11
+OUTER_SET ~Positions7~ = 9
+OUTER_SET ~Positions8~ = 6
+OUTER_SET ~Positions9~ = 7
+OUTER_SET ~Positions10~ = 8
+OUTER_SET ~Positions11~ = 20
+OUTER_SET ~Positions12~ = 26
+OUTER_SET ~Positions13~ = 27
+OUTER_SET ~Positions14~ = 12
+OUTER_SET ~Positions15~ = 28
+OUTER_SET ~Positions16~ = 13
+OUTER_SET ~Positions17~ = 32
+OUTER_SET ~Positions18~ = 33
+OUTER_SET ~Positions19~ = 34
+OUTER_SET ~Positions20~ = 30
+OUTER_SET ~Positions21~ = 18
+OUTER_SET ~Positions22~ = 31
+OUTER_SET ~Positions23~ = 19
+OUTER_SET ~Positions24~ = 21
+OUTER_SET ~Positions25~ = 22
+OUTER_SET ~Positions26~ = 23
+OUTER_SET ~Positions27~ = 24
+OUTER_SET ~Positions28~ = 25 
+OUTER_SET ~Positions29~ = 79
+OUTER_SET ~Positions30~ = 80
+OUTER_SET ~Positions31~ = 81
+OUTER_SET ~Positions32~ = 82 
+OUTER_SET ~Positions33~ = 53
+LAM ~!_Positions~
+END
+// ---INITIALIZE DYN ARRAY POSITIONS
+ACTION_IF (GAME_IS ~bg2ee~) THEN 
+BEGIN
+OUTER_SET ~Positions0~ = 29
+OUTER_SET ~Positions1~ = 75
+OUTER_SET ~Positions2~ = 76
+OUTER_SET ~Positions3~ = 77
+OUTER_SET ~Positions4~ = 78
+OUTER_SET ~Positions5~ = 10
+OUTER_SET ~Positions6~ = 11
+OUTER_SET ~Positions7~ = 9
+OUTER_SET ~Positions8~ = 6
+OUTER_SET ~Positions9~ = 7
+OUTER_SET ~Positions10~ = 8
+OUTER_SET ~Positions11~ = 20
+OUTER_SET ~Positions12~ = 26
+OUTER_SET ~Positions13~ = 27
+OUTER_SET ~Positions14~ = 12
+OUTER_SET ~Positions15~ = 28
+OUTER_SET ~Positions16~ = 13
+OUTER_SET ~Positions17~ = 32
+OUTER_SET ~Positions18~ = 33
+OUTER_SET ~Positions19~ = 34
+OUTER_SET ~Positions20~ = 30
+OUTER_SET ~Positions21~ = 18
+OUTER_SET ~Positions22~ = 31
+OUTER_SET ~Positions23~ = 19
+OUTER_SET ~Positions24~ = 21
+OUTER_SET ~Positions25~ = 22
+OUTER_SET ~Positions26~ = 23
+OUTER_SET ~Positions27~ = 24
+OUTER_SET ~Positions28~ = 25 
+OUTER_SET ~Positions29~ = 35
+OUTER_SET ~Positions30~ = 36
+OUTER_SET ~Positions31~ = 37
+OUTER_SET ~Positions32~ = 38
+OUTER_SET ~Positions33~ = 53
+LAM ~!_Positions~
+END
