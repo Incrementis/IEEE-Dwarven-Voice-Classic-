@@ -9,7 +9,7 @@ setlocal DISABLEDELAYEDEXPANSION
 REM ------------------------
 REM INIT Soundset File Names
 REM ------------------------
-Set soundsetName[0]=!_CDWARF
+Set soundsetName[0]=!_CDWA
 REM --------------
 REM INIT Languages
 REM --------------
