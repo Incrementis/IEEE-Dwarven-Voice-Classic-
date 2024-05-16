@@ -1,0 +1,136 @@
+// ---INITIALIZE DYN ARRAY TEXTS
+OUTER_SPRINT ~Texts0~ ~Trouble?~ //"!_CDWA0.wav" Selected 4
+OUTER_SPRINT ~Texts1~ ~Can't a dwarf have a moment of peace? Fine, what is it?~ //"!_CDWA0_.wav" Action Acknowledgement 4 for SoD/BGEE/IWDEE or else BGEE2 Select Rare 1
+OUTER_SPRINT ~Texts2~ ~Look, if you need somethin' to take the edge off, grab a pickaxe and whack some stone. Does wonders for a dwarf's temper.~ //"!_CDWA1_.wav" Action Acknowledgement 5 for SoD/BGEE/IWDEE or else BGEE2 Select Rare 2
+OUTER_SPRINT ~Texts3~ ~Deep below, where the sun don't reach, there's a beauty like no other. Gold, like sunlight trapped in stone. Gems, that shimmer like a captured rainbow. Makes a dwarf forget all troubles...almost.~ //"!_CDWA2_.wav" Action Acknowledgement 6 for SoD/BGEE/IWDEE or else BGEE2 Select Rare 3
+OUTER_SPRINT ~Texts4~  ~Didn't think I'd say this, but this ragtag bunch ain't so bad. Reminds me a bit of a clan, scrappin' and bickerin' but always havin' each other's backs. Now quit botherin' me, before I change my mind.~ //"!_CDWA3_.wav" Action Acknowledgement 7 for SoD/BGEE/IWDEE or else BGEE2 Select Rare 4
+OUTER_SPRINT ~Texts5~ ~Grudge or glory, today we fight!~  //"!_CDWA8.wav" Battle Cry 2
+OUTER_SPRINT ~Texts6~ ~Grind them to dust!~  //"!_CDWA9.wav" Battle Cry 3
+OUTER_SPRINT ~Texts7~ ~Your doom is at hand!~  //"!_CDWAa.wav" Battle Cry 1
+OUTER_SPRINT ~Texts8~ ~Gold and glory awaits!~  //"!_CDWAb.wav" Becoming Leader
+OUTER_SPRINT ~Texts9~ ~Seems this old stone's too heavy for another walk. Time for a rest.~  //"!_CDWAc.wav" Tired
+OUTER_SPRINT ~Texts10~ ~This idleness is deeper than any mine I've ever dug. My patience is wearing thin.~  //"!_CDWAd.wav" Bored
+OUTER_SPRINT ~Texts11~ ~This mountain's made of tougher stuff.~  //"!_CDWAe.wav" Badly Wounded
+OUTER_SPRINT ~Texts12~ ~About time. Let's get to it then.~  //"!_CDWAf.wav" Selected 1
+OUTER_SPRINT ~Texts13~ ~Hrm.~  //"!_CDWAg.wav" Selected 2
+OUTER_SPRINT ~Texts14~ ~Hmpf, an easy foe to smash!~  //"!_CDWAg_.wav" Battle Cry 4
+OUTER_SPRINT ~Texts15~ ~Lead the way.~  //"!_CDWAh.wav" Selected 3
+OUTER_SPRINT ~Texts16~ ~I'm going to try my weapon on you!~  //"!_CDWAh_.wav" Battle Cry 5
+OUTER_SPRINT ~Texts17~ ~Alright, alright.~  //"!_CDWAi.wav" Action Acknowledgement 1
+OUTER_SPRINT ~Texts18~ ~Alright, alright, it'll get done.~  //"!_CDWAj.wav" Action Acknowledgement 2
+OUTER_SPRINT ~Texts19~ ~You can count on me.~  //"!_CDWAk.wav" Action Acknowledgement 3
+OUTER_SPRINT ~Texts20~ ~What ya need?~  //"!_CDWAk_.wav" Selected 5
+OUTER_SPRINT ~Texts21~ ~Is that all? Pathetic!~  //"!_CDWAl.wav" Beeing Hit
+OUTER_SPRINT ~Texts22~ ~What's the plan?~  //"!_CDWAl_.wav" Selected 6
+OUTER_SPRINT ~Texts23~ ~...I... I'm dying. But a dwarf's spirit... never breaks...~  //"!_CDWAm.wav" Dying
+OUTER_SPRINT ~Texts24~ ~Got it.~ //"!_CDWAs.wav" BGEE[IWDEE] Action Acknowledgement 4 or Action Acknowledgement 4 for BGEE2
+OUTER_SPRINT ~Texts25~ ~Fast as a rollin' stone.~//"!_CDWAt.wav" BGEE[IWDEE] Action Acknowledgement 5 or Action Acknowledgement 5 for BGEE2
+OUTER_SPRINT ~Texts26~ ~Hammerin' on it!~//"!_CDWAu.wav" BGEE[IWDEE] Action Acknowledgement 6 or Action Acknowledgement 6 for BGEE2
+OUTER_SPRINT ~Texts27~ ~Unbreakable loyalty means followin' orders.~//"!_CDWAv.wav" BGEE[IWDEE] Action Acknowledgement 7 or Action Acknowledgement 7 for BGEE2
+OUTER_SPRINT ~Texts28~ ~May the gods grant you peace. You fought well.~ //"!_CDWAw.wav" Reaction to Party Member Death
+LAM ~!_Texts~
+// ---INITIALIZE DYN ARRAY NAMES
+OUTER_SPRINT ~VoxNames0~ ~!_CDWA~
+LAM ~!_VoxNames~
+// ---INITIALIZE DYN ARRAY SELECTABLE NAMES
+OUTER_SPRINT ~VoxSelectNames0~ ~!_IEEE Dwarf:Classic~
+LAM ~!_VoxSelectNames~	
+// ---INITIALIZE DYN ARRAY SOUNDS
+OUTER_SPRINT ~Sounds0~ ~!_CDWA0~
+OUTER_SPRINT ~Sounds1~ ~!_CDWA0_~
+OUTER_SPRINT ~Sounds2~ ~!_CDWA1_~
+OUTER_SPRINT ~Sounds3~ ~!_CDWA2_~
+OUTER_SPRINT ~Sounds4~ ~!_CDWA3_~
+OUTER_SPRINT ~Sounds5~ ~!_CDWA8~
+OUTER_SPRINT ~Sounds6~ ~!_CDWA9~
+OUTER_SPRINT ~Sounds7~ ~!_CDWAa~
+OUTER_SPRINT ~Sounds8~ ~!_CDWAb~
+OUTER_SPRINT ~Sounds9~ ~!_CDWAc~
+OUTER_SPRINT ~Sounds10~ ~!_CDWAd~
+OUTER_SPRINT ~Sounds11~ ~!_CDWAe~
+OUTER_SPRINT ~Sounds12~ ~!_CDWAf~
+OUTER_SPRINT ~Sounds13~ ~!_CDWAg~
+OUTER_SPRINT ~Sounds14~ ~!_CDWAg_~
+OUTER_SPRINT ~Sounds15~ ~!_CDWAh~
+OUTER_SPRINT ~Sounds16~ ~!_CDWAh_~
+OUTER_SPRINT ~Sounds17~ ~!_CDWAi~
+OUTER_SPRINT ~Sounds18~ ~!_CDWAj~
+OUTER_SPRINT ~Sounds19~ ~!_CDWAk~
+OUTER_SPRINT ~Sounds20~ ~!_CDWAk_~
+OUTER_SPRINT ~Sounds21~ ~!_CDWAl~
+OUTER_SPRINT ~Sounds22~ ~!_CDWAl_~
+OUTER_SPRINT ~Sounds23~ ~!_CDWAm~
+OUTER_SPRINT ~Sounds24~ ~!_CDWAs~
+OUTER_SPRINT ~Sounds25~ ~!_CDWAt~
+OUTER_SPRINT ~Sounds26~ ~!_CDWAu~
+OUTER_SPRINT ~Sounds27~ ~!_CDWAv~
+OUTER_SPRINT ~Sounds28~ ~!_CDWAw~
+LAM ~!_Sounds~
+// ---INITIALIZE DYN ARRAY POSITIONS
+ACTION_IF (GAME_IS ~bgee~) OR  (FILE_EXISTS ~sod-dlc.zip~) OR (FILE_EXISTS ~dlc/sod-dlc.zip~) OR (GAME_IS ~iwdee~) THEN 
+BEGIN
+OUTER_SET ~Positions0~ = 29
+OUTER_SET ~Positions1~ = 35
+OUTER_SET ~Positions2~ = 36
+OUTER_SET ~Positions3~ = 37
+OUTER_SET ~Positions4~ = 38
+OUTER_SET ~Positions5~ = 10
+OUTER_SET ~Positions6~ = 11
+OUTER_SET ~Positions7~ = 9
+OUTER_SET ~Positions8~ = 6
+OUTER_SET ~Positions9~ = 7
+OUTER_SET ~Positions10~ = 8
+OUTER_SET ~Positions11~ = 20
+OUTER_SET ~Positions12~ = 26
+OUTER_SET ~Positions13~ = 27
+OUTER_SET ~Positions14~ = 12
+OUTER_SET ~Positions15~ = 28
+OUTER_SET ~Positions16~ = 13
+OUTER_SET ~Positions17~ = 32
+OUTER_SET ~Positions18~ = 33
+OUTER_SET ~Positions19~ = 34
+OUTER_SET ~Positions20~ = 30
+OUTER_SET ~Positions21~ = 18
+OUTER_SET ~Positions22~ = 31
+OUTER_SET ~Positions23~ = 19
+OUTER_SET ~Positions24~ = 79
+OUTER_SET ~Positions25~ = 80
+OUTER_SET ~Positions26~ = 81
+OUTER_SET ~Positions27~ = 82 
+OUTER_SET ~Positions28~ = 53
+LAM ~!_Positions~
+END
+// ---INITIALIZE DYN ARRAY POSITIONS
+ACTION_IF (GAME_IS ~bg2ee~) THEN 
+BEGIN
+OUTER_SET ~Positions0~ = 29
+OUTER_SET ~Positions1~ = 75
+OUTER_SET ~Positions2~ = 76
+OUTER_SET ~Positions3~ = 77
+OUTER_SET ~Positions4~ = 78
+OUTER_SET ~Positions5~ = 10
+OUTER_SET ~Positions6~ = 11
+OUTER_SET ~Positions7~ = 9
+OUTER_SET ~Positions8~ = 6
+OUTER_SET ~Positions9~ = 7
+OUTER_SET ~Positions10~ = 8
+OUTER_SET ~Positions11~ = 20
+OUTER_SET ~Positions12~ = 26
+OUTER_SET ~Positions13~ = 27
+OUTER_SET ~Positions14~ = 12
+OUTER_SET ~Positions15~ = 28
+OUTER_SET ~Positions16~ = 13
+OUTER_SET ~Positions17~ = 32
+OUTER_SET ~Positions18~ = 33
+OUTER_SET ~Positions19~ = 34
+OUTER_SET ~Positions20~ = 30
+OUTER_SET ~Positions21~ = 18
+OUTER_SET ~Positions22~ = 31
+OUTER_SET ~Positions23~ = 19
+OUTER_SET ~Positions24~ = 35
+OUTER_SET ~Positions25~ = 36
+OUTER_SET ~Positions26~ = 37
+OUTER_SET ~Positions27~ = 38
+OUTER_SET ~Positions28~ = 53
+LAM ~!_Positions~
+END
