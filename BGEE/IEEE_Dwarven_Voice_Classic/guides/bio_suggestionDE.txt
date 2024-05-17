@@ -1,0 +1,31 @@
+Waffenkenntnis:
+---------------
+Kriegshammer
+
+Name:
+----- 
+Gremlik
+
+Bio:
+----
+Gremlik, ein enger Freund Gorions, hat über [CHARNAME] seit dessen Kindheit innerhalb der Mauern von Kerzenburg gewacht. 
+Das Band, das zwischen ihnen geschmiedet wurde, geht über Freundschaft hinaus und festigt sich zu einer familiären Bindung. 
+Zeuge zu sein, wie [CHARNAME] von einem hilflosen Kind zu einem aufstrebenden Abenteurer heranwächst, hat Gremlik mit einer glühenden Loyalität erfüllt, die heller brennt als jede Schmiede.
+
+Als wahrer Sohn des Zwergenvolkes besitzt Gremlik eine tiefe Liebe zu den schönen Dingen des Lebens: 
+Dem Glanz von Gold, dem Funkeln von Edelsteinen, dem cremigen Schaum eines guten Bieres und dem befriedigenden Getöse einer Kneipenschlägerei. 
+Bevor er nach Kerzenburg kam, schuftete Gremlik in den Minen, eine Vergangenheit, von der er selten spricht. 
+Wenn jedoch Erinnerungen an diese Tage auftauchen, flackert in seinem stählernen Blick ein Hauch von Nostalgie auf, der auf ein Leben hindeutet, das er hinter sich gelassen hat.
+
+Trotz seiner Prahlereien über seine Fähigkeiten auf dem Schlachtfeld hat Gremlik sich nie wirklich auf einem Schlachtfeld beweisen müssen. 
+Gremliks unerschütterliche Hingabe an sein Training und sein wilder Beschützerinstinkt formen ihn zu einem furchterregenden Gegner, der vor keiner Bedrohung zurückschreckt. 
+In seinen Augen brennt die Sehnsucht nach der Bewährungsprobe in einer großen Schlacht, doch gleichzeitig zieht ihn ein tieferes Bedürfnis an: 
+Die Kameradschaft innerhalb der Gruppe um [CHARNAME]. 
+In dieser Gemeinschaft findet er ein Zugehörigkeitsgefühl, das an die Bindung eines echten Zwergenclans erinnert – etwas, das er nie erwartet hatte.
+
+Gremlik mag ein wandelndes Paradox sein – ein Krieger, der nach Kampf verlangt, aber gleichzeitig die neu gefundene Kameradschaft schätzt. 
+Doch genau dieser Widerspruch macht ihn zu einer so fesselnden Figur. 
+Hinter seiner rauen Schale verbirgt sich eine unerschütterliche Loyalität, die ihn zu einem verlässlichen Verbündeten macht.
+
+An der Seite von [CHARNAME] steht Gremlik als unerschütterlicher Wächter und geschätzter Freund. 
+In ihm vereinen sich Stärke und Herzlichkeit, Kampfgeist und Zusammengehörigkeit – Eigenschaften, die ihn zu einem unverzichtbaren Mitglied der Gruppe machen.

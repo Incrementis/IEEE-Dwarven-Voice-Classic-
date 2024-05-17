@@ -1,0 +1,27 @@
+Weapon proficiency:
+-------------------
+Warhammer
+
+Name:
+----- 
+Gremlik
+
+Bio:
+----
+A close friend of Gorion, Gremlik has watched over <CHARNAME> since <CHARNAME>'s childhood within the walls of Candlekeep. 
+The bond forged between them transcends friendship, solidifying into a familial connection. 
+Witnessing <CHARNAME> blossom from a helpless child to a burgeoning adventurer has filled Gremlik with a fierce loyalty that burns brighter than any forge.
+
+A true son of the dwarven people, Gremlik possesses a deep love for the finer things in life: 
+The glint of gold, the brilliance of gems, the frothy head of a good ale, and the satisfying clash of a bar brawl. 
+Before his arrival at Candlekeep, Gremlik toiled in the mines, a past he rarely speaks of. 
+However, when memories of those days surface, a spark of nostalgia ignites within his steely gaze, hinting at a life he left behind.
+
+Despite his boasts of battlefield prowess, Gremlik has never truly faced the crucible of war. 
+Yet, his unwavering dedication to his training and his fierce protectiveness make him a formidable opponent, ready to stand toe-to-toe with any threat. 
+While he longs for the chance to prove himself in a grand battle, a deeper yearning tugs at his heart. 
+The camaraderie found within the party, a bond reminiscent of a true dwarven clan, brings him a sense of belonging he never expected.
+
+Gremlik may be a walking paradox – a warrior who craves combat yet cherishes newfound kinship. 
+Yet, it is these very contradictions that make him such a compelling character.  
+His unwavering loyalty, gruff exterior, and surprising vulnerability ensure he will stand beside <CHARNAME>, a steadfast guardian and a treasured friend.
