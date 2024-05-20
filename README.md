@@ -2,6 +2,8 @@
 
 This is a custom voice mod for a custom character that is generated during character creation. The voice is that of a classic dwarf.
 
+If you click on the image below you will be taken to a sort of teaser video on YouTube.
+
 [![YouTube](https://github.com/Incrementis/Infinity-Engine-Modding-Wiki-Content-/blob/main/Dwarven%20Voice%20Classic/Images/CaveAndDwarf.png)](https://www.youtube.com/watch?v=t1pVB-WKLhI)
 
 
