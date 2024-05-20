@@ -1,0 +1,173 @@
+ANFÜHRER WERDEN
+---------------
+Hört, hört! Gold und Ruhm warten auf uns!
+
+MÜDE
+----
+Der olle Stein hier is' zu schwer fürn nächsten Marsch. Zeit für'n Päuschen!
+
+GELANGWEILT
+-----------
+Diese Untätigkeit ist tiefer als jeder Schacht, den ich je gegraben habe. Meine Geduld schwindet!
+
+SCHLACHTRUF 1
+-------------
+Euer Untergang naht!
+
+SCHLACHTRUF 2
+-------------
+Rache oder Ruhm, heute kämpfen wir!
+
+SCHLACHTRUF 3
+-------------
+Zermalmt sie zu Staub!
+
+SCHLACHTRUF 4
+-------------
+Ach, kaum mehr Kampfgeist als ein Sack voller Steine!
+
+SCHLACHTRUF 5
+-------------
+Lasst den Boden rot färben!
+
+GETROFFEN WERDEN
+----------------
+Das ist alles? Versuchs nochmal!
+
+STERBEN
+-------
+...Ich... ich sterbe. Aber der Geist eines Zwerges...bricht niemals...
+
+SCHWER VERWUNDET
+----------------
+Uff, Dieser Berg ist aus härterem Gestein!
+
+IM WALD
+-------
+Zu still ist es hier Wald! Ich vermisse das fröhliche Klirren von Zwergenpickeln auf Stein.
+
+IN DER STADT
+------------
+Sicher, die Stadt protzt mit schickem Mauerwerk, aber viel zu viel Gequatsche hier! Man kann ja nich mal seine eigenen Gedanken hören.
+
+IM KERKER
+---------
+Fester Stein, gut. Doch die Dunkelheit birgt Gefahren. Seid wachsam!
+
+TAGSÜBER
+--------
+Die Sonne brennt ganz schön, was? Aber die klare Sicht ist unschlagbar.
+Könnte mir glatt ein feines Nickerchen darunter gönnen.
+
+NACHTS
+------
+So finster wie der Bauch einer kalten Schmiede, diese Nacht.
+Und die Sterne, wie verstreute Diamanten.
+Kaum zu glauben, dass die Oberflächenbewohner so etwas Schönes über sich haben.
+
+AUSGEWÄHLT 1
+------------
+Endlich! Höchste Zeit! Lasst uns an die Arbeit gehen!
+
+AUSGEWÄHLT 2
+------------
+Hrm.
+
+AUSGEWÄHLT 3
+------------
+Was soll ich tun?
+
+AUSGEWÄHLT 4
+------------
+Mit Ärger komme ich klar!
+
+AUSGEWÄHLT 5
+------------
+Buddeln wir oder kloppen wir?
+
+AUSGEWÄHLT 6
+------------
+Wie lautet der Plan?
+
+AKTIONSBESTÄTIGUNG 1
+--------------------
+Gut, gut.
+
+AKTIONSBESTÄTIGUNG 2
+--------------------
+Bei meinem Bart!
+
+AKTIONSBESTÄTIGUNG 3
+--------------------
+Du kannst auf mich zählen.
+
+AKTIONSBESTÄTIGUNG 4
+--------------------
+Kann denn ein Zwerg keinen Augenblick Ruhe haben? Na gut, spuck's endlich aus, was willst du?
+
+AKTIONSBESTÄTIGUNG 5
+--------------------
+Na hör mal, wenn dir der Schnabel mal wieder überläuft,  
+nimm dir lieber 'ne Spitzhacke und hau etwas Fels klein.
+Wirkt wahre wunder.
+Das gilt auch für Zwerge.
+
+AKTIONSBESTÄTIGUNG 6
+--------------------
+Tief unter der Erde, in den Bergen, da gibt's eine Pracht, die findet ihr nirgends sonst. Gold, wie Sonnenlicht gefangen in Stein. Edelsteine, die funkeln wie eingefangener Regenbogen. Fast lässt es einen Zwerg all seine Sorgen vergessen ... fast.
+
+AKTIONSBESTÄTIGUNG 7
+--------------------
+Hätt ich nicht gedacht, aber die zusammengewürfelte Truppe is ja gar nich so übel. Erinnert ein bisschen an'n Klan, streiten und zanken sich, aber halten am Ende immer zusammen. Also nervt mich jetzt nich mehr, sonst änder ich noch meine Meinung.
+
+REAKTION AUF DEN TOD EINES GRUPPENMITGLIEDS
+-------------------------------------------
+Mögen die Götter dir Frieden gewähren, tapferer Kamerad. Du hast gut gekämpft.
+
+KRITISCHER TREFFER
+------------------
+Ein Hieb wie Donner!
+
+KRITISCHER FEHLSCHLAG
+---------------------
+Uff, das...das war Absicht.
+
+ZIEL IST IMMUN
+--------------
+Immun?! Verflucht sei dieser Feind!
+
+INVENTAR VOLL
+-------------
+Verdammt nochmal, mein Rucksack ist so schwer wie ein Amboss!
+
+TASCHENDIEBSTAHL
+----------------
+Wie aus dem Nichts, ein glänzender Gewinn!
+
+VERSTECKT IM SCHATTEN
+---------------------
+Verborgen wie ein Schatz und still wie ein Stein.
+
+ZAUBER UNTERBROCHEN
+-------------------
+Verflucht nochmal! Mein Zauber wurde unterbrochen. 
+
+FALLE STELLEN
+-------------
+Die Falle ist gestellt!
+
+BGEE AKTIONSBESTÄTIGUNG 4
+-------------------------
+Verstanden.
+
+BGEE AKTIONSBESTÄTIGUNG 5
+-------------------------
+So schnell wie ein rollender Stein!
+
+BGEE AKTIONSBESTÄTIGUNG 6
+-------------------------
+Mein Hammer ist bereit!
+
+BGEE AKTIONSBESTÄTIGUNG 7
+-------------------------
+Ein treuer Zwerg folgt dem Befehl!

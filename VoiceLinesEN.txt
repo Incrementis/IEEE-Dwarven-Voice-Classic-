@@ -1,0 +1,171 @@
+LEADER
+------
+Gold and glory awaits!
+
+TIRED
+-----
+Seems this old stone's too heavy for another walk. Time for a rest.
+
+BORED
+-----
+This idleness is deeper than any mine I've ever dug. My patience is wearing thin.
+
+BATTLE_CRY1
+-----------
+Your doom is at hand!
+
+BATTLE_CRY2
+-----------
+Grudge or glory, today we fight!
+
+BATTLE_CRY3
+-----------
+Grind them to dust!
+
+BATTLE_CRY4
+-----------
+Hmpf, an easy foe to smash!
+
+BATTLE_CRY5
+-----------
+I'm going to try my weapon on you!
+
+DAMAGE
+------
+Is that all? Pathetic!
+
+DYING
+-----
+...I... I'm dying. But a dwarf's spirit... never breaks...
+
+HURT
+----
+This mountain's made of tougher stuff.
+
+AREA_FOREST
+-----------
+These trees are too quiet. Miss the good ring of a pickaxe on stone.
+
+AREA_CITY
+---------
+The city has fancy stonework, alright, but too many yappin' mouths. 
+Can't hear yourself think.
+
+AREA_DUNGEON
+------------
+Solid stone, good. Darkness hides dangers though. Watch it!
+
+AREA_DAY
+--------
+Sun's a bit harsh, aye, but can't beat seein' everything clear. 
+Might just make a right good nap under it, though.
+
+AREA_NIGHT
+----------
+Stars like a spilled purse of silver. 
+Not bad for a surface dweller's ceiling, I suppose.
+
+SELECT_COMMON1
+--------------
+About time. Let's get to it then.
+
+SELECT_COMMON2
+--------------
+Hrm.
+
+SELECT_COMMON3
+--------------
+Lead the way.
+
+SELECT_COMMON4
+--------------
+Trouble?
+
+SELECT_COMMON5
+--------------
+What ya need?
+
+SELECT_COMMON6
+--------------
+What's the plan?
+
+SELECT_ACTION1
+--------------
+Alright, alright.
+
+SELECT_ACTION2
+--------------
+Alright, alright, it'll get done.
+
+SELECT_ACTION3
+--------------
+You can count on me.
+
+SELECT_ACTION4
+---------------
+Can't a dwarf have a moment of peace? Fine, what is it?
+
+SELECT_ACTION5
+--------------
+Look, if you need somethin' to take the edge off, grab a pickaxe and whack some stone. 
+Does wonders for a dwarf's temper.
+
+SELECT_ACTION6
+--------------
+Deep below, where the sun don't reach, there's a beauty like no other. Gold, like sunlight trapped in stone. Gems, that shimmer like a captured rainbow. Makes a dwarf forget all troubles...almost.
+
+SELECT_ACTION7
+--------------
+Didn't think I'd say this, but this ragtag bunch ain't so bad. Reminds me a bit of a clan, scrappin' and bickerin' but always havin' each other's backs. Now quit botherin' me, before I change my mind.
+
+REACT_TO_DIE_GENERAL
+--------------------
+May the gods grant you peace. You fought well.
+
+CRITICAL_HIT
+------------
+Heavy hit! Crumbling like hollow stone!
+
+CRITICAL_MISS
+--------------
+Next time, it'll crack like a hollow stone!
+
+TARGET_IMMUNE
+-------------
+Immune?! Blast this cursed foe! 
+
+INVENTORY_FULL
+--------------
+Grumble... Inventory's tighter than a dwarf's grip.
+
+PICKED_POCKET
+-------------
+One grip, one prize!
+
+HIDDEN_IN_SHADOWS
+-----------------
+Silent as a stone.
+
+SPELL_DISRUPTED
+---------------
+My spell disrupted! Curse you all!
+
+SET_A_TRAP
+----------
+Steel trap's set! Let's wait!
+
+BGEE_ACTION_ACKNOWLEDGEMENT4
+----------------------------
+Got it.
+
+BGEE_ACTION_ACKNOWLEDGEMENT5
+----------------------------
+Fast as a rollin' stone.
+
+BGEE_ACTION_ACKNOWLEDGEMENT6
+----------------------------
+Hammerin' on it!
+
+BGEE_ACTION_ACKNOWLEDGEMENT7
+----------------------------
+Unbreakable loyalty means followin' orders.
