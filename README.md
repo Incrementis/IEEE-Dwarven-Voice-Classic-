@@ -67,6 +67,7 @@ They serve as inspiration only. They can be used for character biography.
 
 The WAV audio files are stored in the "*/IEEE_Dwarven_Voice_Classic/vox/en_US*" folder for English voice lines and in the "*/IEEE_Dwarven_Voice_Classic/vox/de_DE*" folder for German voice lines.
 
+[VoiceLinesDE.txt](https://github.com/Incrementis/IEEE-Dwarven-Voice-Classic-/blob/main/VoiceLinesDE.txt) and [VoiceLinesEN.txt](https://github.com/Incrementis/IEEE-Dwarven-Voice-Classic-/blob/main/VoiceLinesEN.txt) contains the recorded lines in text form.
 
 
 
