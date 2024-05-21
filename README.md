@@ -1,6 +1,6 @@
 # IEEE-Dwarven-Voice-Classic-
 
-This is a custom voice mod for a custom character that is generated during character creation. The voice is that of a classic dwarf.
+This is a custom voice mod for a custom character that is generated during character creation. The voice is that of a classic dwarf (Fan-Fiction).
 
 If you click on the image below you will be taken to a sort of teaser video on YouTube.
 
@@ -77,5 +77,7 @@ The WAV audio files are stored in the "*/IEEE_Dwarven_Voice_Classic/vox/en_US*" 
 
 
 ## Copyright
+
+The "*IEEE Dwarven Voice Classic*" Project is not developed, supported, or endorsed by BioWare™, Interplay/BlackIsle, Beamdog, or Wizards of the Coast.
 
 "*IEEE Dwarven Voice Classic*" is licensed under a [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
