@@ -37,6 +37,7 @@ IWD:EE cannot be installed in BG:EE.
 * English
 * Deutsch
 
+There are a maximum of 42 voice lines for each language, so there are 84 voice lines in total.
 
 ## Installation Guide
 
