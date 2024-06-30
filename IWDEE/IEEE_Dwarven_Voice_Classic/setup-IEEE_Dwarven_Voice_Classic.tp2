@@ -2,9 +2,9 @@
 // -----------
 // Information
 // -----------
-BACKUP ~weidu_external/Your_Mod_Name/backup~ // %MOD_FOLDER% doesn't work here
+BACKUP ~weidu_external/IEEE_Dwarven_Voice_Classic/backup~ // %MOD_FOLDER% doesn't work here
 AUTHOR ~Incrementis (incrementis@gmail.com)~
-VERSION ~v1.0.0~
+VERSION ~v1.0.2~
 AUTO_EVAL_STRINGS// This will prevent the need of EVAL for string variables
 
 
