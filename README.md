@@ -76,13 +76,13 @@ The WAV audio files are stored in the "*/IEEE_Dwarven_Voice_Classic/vox/en_US*" 
 
 The following warnings can be ignored and will not affect the game if they are displayed when the TLK repair tool is not used and these files were therefore never created.
 ```
-DEFINE_ACTION_MACRO DYN_ARRAY_CLEANUP -> Couldn't find and delete ./weidu_external/IEEE_HALFORC_VOICE_CLASSIC/temp/arrays/values/!_%TLKindexRepairArray%Buffer.tph!
+DEFINE_ACTION_MACRO DYN_ARRAY_CLEANUP -> Couldn't find and delete ./weidu_external/IEEE_DWARVEN_VOICE_CLASSIC/temp/arrays/values/!_%TLKindexRepairArray%Buffer.tph!
 
-DEFINE_ACTION_MACRO DYN_ARRAY_CLEANUP -> Couldn't find and delete ./weidu_external/IEEE_HALFORC_VOICE_CLASSIC/temp/arrays/values/!_patch%TLKindexRepairArray%Buffer.tph!
+DEFINE_ACTION_MACRO DYN_ARRAY_CLEANUP -> Couldn't find and delete ./weidu_external/IEEE_DWARVEN_VOICE_CLASSIC/temp/arrays/values/!_patch%TLKindexRepairArray%Buffer.tph!
 
-DEFINE_ACTION_MACRO DYN_ARRAY_CLEANUP -> Couldn't find and delete ./weidu_external/IEEE_HALFORC_VOICE_CLASSIC/temp/arrays/!_%TLKindexRepairArray%.tph!
+DEFINE_ACTION_MACRO DYN_ARRAY_CLEANUP -> Couldn't find and delete ./weidu_external/IEEE_DWARVEN_VOICE_CLASSIC/temp/arrays/!_%TLKindexRepairArray%.tph!
 
-DEFINE_ACTION_MACRO DYN_ARRAY_CLEANUP -> Couldn't find and delete ./weidu_external/IEEE_HALFORC_VOICE_CLASSIC/temp/arrays/!_patch%TLKindexRepairArray%.tph!
+DEFINE_ACTION_MACRO DYN_ARRAY_CLEANUP -> Couldn't find and delete ./weidu_external/IEEE_DWARVEN_VOICE_CLASSIC/temp/arrays/!_patch%TLKindexRepairArray%.tph!
 ```
 
 ## Troubleshooting
